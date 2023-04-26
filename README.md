@@ -1,7 +1,10 @@
 # Basic-Experiments-in-Software-Engineering
 <<<<<<< HEAD
+<<<<<<< HEAD
 软件工程基础实验
 =======
+=======
+>>>>>>> 92c949f (报错)
 
 #### 介绍
 软件工程基础
@@ -38,4 +41,10 @@
 4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
 5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
 6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+<<<<<<< HEAD
 >>>>>>> 1697630 (Initial commit)
+=======
+=======
+软件工程基础实验
+>>>>>>> 6200a5a (Initial commit)
+>>>>>>> 92c949f (报错)
