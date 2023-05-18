@@ -1,0 +1,45 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="32">
+            <item index="0" class="java.lang.String" itemvalue="PyYAML" />
+            <item index="1" class="java.lang.String" itemvalue="coverage" />
+            <item index="2" class="java.lang.String" itemvalue="werkzeug" />
+            <item index="3" class="java.lang.String" itemvalue="flask-login" />
+            <item index="4" class="java.lang.String" itemvalue="zipp" />
+            <item index="5" class="java.lang.String" itemvalue="flask-sqlalchemy" />
+            <item index="6" class="java.lang.String" itemvalue="python-dotenv" />
+            <item index="7" class="java.lang.String" itemvalue="flask" />
+            <item index="8" class="java.lang.String" itemvalue="importlib-metadata" />
+            <item index="9" class="java.lang.String" itemvalue="markupsafe" />
+            <item index="10" class="java.lang.String" itemvalue="sqlalchemy" />
+            <item index="11" class="java.lang.String" itemvalue="flask-moment" />
+            <item index="12" class="java.lang.String" itemvalue="pbr" />
+            <item index="13" class="java.lang.String" itemvalue="greenlet" />
+            <item index="14" class="java.lang.String" itemvalue="python-engineio" />
+            <item index="15" class="java.lang.String" itemvalue="text-unidecode" />
+            <item index="16" class="java.lang.String" itemvalue="flask-oauthlib" />
+            <item index="17" class="java.lang.String" itemvalue="python-socketio" />
+            <item index="18" class="java.lang.String" itemvalue="requests-oauthlib" />
+            <item index="19" class="java.lang.String" itemvalue="eventlet" />
+            <item index="20" class="java.lang.String" itemvalue="pathtools" />
+            <item index="21" class="java.lang.String" itemvalue="watchdog" />
+            <item index="22" class="java.lang.String" itemvalue="faker" />
+            <item index="23" class="java.lang.String" itemvalue="bleach" />
+            <item index="24" class="java.lang.String" itemvalue="certifi" />
+            <item index="25" class="java.lang.String" itemvalue="oauthlib" />
+            <item index="26" class="java.lang.String" itemvalue="flask-wtf" />
+            <item index="27" class="java.lang.String" itemvalue="markdown" />
+            <item index="28" class="java.lang.String" itemvalue="mock" />
+            <item index="29" class="java.lang.String" itemvalue="flask-socketio" />
+            <item index="30" class="java.lang.String" itemvalue="wtforms" />
+            <item index="31" class="java.lang.String" itemvalue="argh" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
